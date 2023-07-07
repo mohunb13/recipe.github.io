@@ -1,0 +1,18 @@
+body {
+  font-family: 'Lato', Arial, sans-serif;
+  background-image: url('./paper-cupcake-baking-pans-white-concrete-background-ingredients-flour-butter-sugar-whisk-milk-copy-space-top-view-baking-concept-flat-lay.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1, h2 {
+  color: rgb(0, 0, 0);
+  text-align: left;
+}
+
+.home-button {
+  display: inline-block;
+  padding: 5px;
+  background-color: #f1b4f6; /* Pink color */
+  border-radius: 5px;
+}
